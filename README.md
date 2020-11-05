@@ -1,4 +1,4 @@
-# Java POO - Curso em Vídeo
+# Java POO - Curso em Vídeo  :coffee:
 `40h`
 
 ##### Conteudo do Curso
@@ -40,6 +40,6 @@
 15. Projeto Final em Java (Parte 2)
 
 ### Projeto Final
-Todos os conceitos juntos em um exercício.
+- Todos os conceitos juntos em um exercício.
 
 ##### Veja mais sobre o curso Programação Orientada a Objetos: [Curso em Vídeo](https://www.cursoemvideo.com/course/java-poo/)
