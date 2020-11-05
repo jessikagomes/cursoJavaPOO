@@ -1,8 +1,9 @@
-#Java POO - Curso em Vídeo
+# Java POO - Curso em Vídeo
 `40h`
-#####Conteudo do Curso
 
-###Aulas Teóricas
+##### Conteudo do Curso
+
+### Aulas Teóricas
 
 1. O que é Programação Orientada a Objetos?
 2. O que é um Objeto?
@@ -20,7 +21,7 @@
 14. Exercícios de POO (Parte 2)
 15. Exercícios de POO (Parte 3)
 
-###Aulas Práticas
+### Aulas Práticas
 
 1. Instalando o JDK e NetBeans (utilizei o IntelliJ)
 2. Criando Classes e Objetos em Java
@@ -38,7 +39,7 @@
 14. Projeto Final em Java (Parte 1)
 15. Projeto Final em Java (Parte 2)
 
-###Projeto Final
+### Projeto Final
 Todos os conceitos juntos em um exercício.
 
-#####Veja mais sobre o curso Programação Orientada a Objetos: [Curso em Vídeo](https://www.cursoemvideo.com/course/java-poo/)
+##### Veja mais sobre o curso Programação Orientada a Objetos: [Curso em Vídeo](https://www.cursoemvideo.com/course/java-poo/)
